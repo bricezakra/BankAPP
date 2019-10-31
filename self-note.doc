@@ -1,0 +1,31 @@
+﻿
+There are 3 types of methods:
+
+- instance methods;
+- class methods;
+- static methods.
+
+
+
+* If we are using at least one instance variable, this is an INSTANCE METHOD;
+* If we are using only some static variables for our program and no instance variables, this is a CLASS METHOD;
+* If we are not using any instance or static variables, this is a STATIC METHOD.
+
+
+
+We can access an INSTANCE VARIABLE by using “SELF”;
+example:
+def m1(self):
+   self.x
+
+We can access a CLASS VARIABLE by using “CLS”;
+example:
+def m1(cls):
+   cls.x
+   Test.x
+
+Check out example below to see how to access a STATIC VARIABLE:
+example:
+def add(x, y):
+   print(x+y)
+
