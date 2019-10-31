@@ -7,7 +7,7 @@ BankAPP is a small banking application I have written in python for TRAINING PUR
 The program will allow you to open a bank account where you will be able to make a DEPOSIT, WITHDRAW and CHECK YOUR BALANCE once run.
 
 
-### Here is a slideshow for demo purpose:
+## Here is a slideshow for demo purpose:
 
 
 <a name="bankAPP demo"></a>
@@ -25,4 +25,4 @@ The program will allow you to open a bank account where you will be able to make
 
 
 
-##Enjoy!
+### Enjoy!
